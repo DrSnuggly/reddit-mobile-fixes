@@ -1,9 +1,9 @@
 /* show full images in image posts in feed */
-.PostContent__image-link {
+.AppMainPage .PostContent__image-link {
   padding-top: revert !important;
   background-size: auto !important;
 }
-.PostContent__img {
+.AppMainPage .PostContent__img {
   position: initial !important;
   object-fit: contain !important;
   height: auto !important;
