@@ -21,6 +21,6 @@ This repository contains fixes for Reddit's mobile web experience, which is noto
 ## Known issues
 
 - Reddit sets a custom, static height for each post's content, and these tweaks remove these static
-  heights from media posts to allow them to be fully displayed. There can be some vertical flickering
+  heights from media posts to allow them to be fully displayed. There can be some vertical layout shifting
   as images are lazy-loaded on scroll — this is because, without the image, the post content height is
   zero, which then expands to fit as the content is loaded.
