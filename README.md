@@ -5,6 +5,7 @@ This repository contains fixes for Reddit's mobile web experience, which is noto
 ## Features
 
 - Make all media post content full-height, so no more chopped-off images in your feeds.
+- Prevent inadvertently highlighting / selecting post content, while still allowing for copying / sharing media content directly.
 - Hide the **Open App** button in the top menu bar.
 
 ## Usage
