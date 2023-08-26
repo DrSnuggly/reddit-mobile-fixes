@@ -1,3 +1,7 @@
+/* hide 'Use App' button */
+.TopNav__promoButton {
+  display: none !important;
+}
 /* prevent erroneous post content selection in feed */
 .AppMainPage .PostContent {
   -webkit-user-select: none; /* Safari */
@@ -12,6 +16,7 @@
   position: initial !important;
   object-fit: contain !important;
   height: auto !important;
+  min-height: 200px !important;
 }
 /* show full image gallaries in feed */
 .AppMainPage .PostContent__media-wrapper .slideshowContainer {
