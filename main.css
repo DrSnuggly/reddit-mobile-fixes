@@ -16,7 +16,6 @@
   position: initial !important;
   object-fit: contain !important;
   height: auto !important;
-  min-height: 200px !important;
 }
 /* show full image gallaries in feed */
 .AppMainPage .PostContent__media-wrapper .slideshowContainer {
