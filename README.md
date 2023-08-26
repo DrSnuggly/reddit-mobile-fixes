@@ -16,7 +16,7 @@ This repository contains fixes for Reddit's mobile web experience, which is noto
     - [**Hyperweb**](https://apps.apple.com/us/app/hyperweb/id1581824571)
 - Depending on the app, either:
   - Copy and paste the link to the `main.css` file: https://raw.githubusercontent.com/DrSnuggly/reddit-mobile-fixes/main/main.css
-  - Copy and paste the contents of the `main.css` file and paste it.
+  - Copy the contents of the `main.css` file and paste it.
 
 ## Known issues
 
