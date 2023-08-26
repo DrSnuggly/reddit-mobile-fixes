@@ -8,3 +8,17 @@
   object-fit: contain !important;
   height: auto !important;
 }
+.AppMainPage .PostContent__media-wrapper .slideshowContainer {
+  height: auto !important;
+  padding: 0 !important;
+}
+.AppMainPage .PostContent__media-wrapper ul {
+  display: grid !important;
+}
+.AppMainPage .PostContent__media-wrapper li {
+  position: relative !important;
+  grid-area: 1 / 1 / 2 / 2;
+}
+.AppMainPage .PostContent__media-wrapper img {
+  object-fit: contain !important;
+}
