@@ -4,7 +4,7 @@
 }
 /* force image viewer to full-width */
 main > img {
-  width: 100% !important:
+  width: 100% !important;
 }
 /* prevent erroneous post content selection in feed */
 .AppMainPage .PostContent {
