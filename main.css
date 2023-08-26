@@ -1,9 +1,14 @@
+/* prevent erroneous post content selection in feed */
+.AppMainPage .PostContent {
+  -webkit-user-select: none; /* Safari */
+  user-select: none; /* Standard syntax */
+}
 /* show full images in image posts in feed */
 .AppMainPage .PostContent__image-link {
   padding-top: revert !important;
   background-size: auto !important;
 }
-.AppMainPage .PostContent__img {
+.AppMainPage .PostContent__img, .AppMainPage .PostContent__inline-gif {
   position: initial !important;
   object-fit: contain !important;
   height: auto !important;
