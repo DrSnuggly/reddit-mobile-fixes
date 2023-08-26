@@ -8,6 +8,7 @@
   object-fit: contain !important;
   height: auto !important;
 }
+/* show full image gallaries in feed */
 .AppMainPage .PostContent__media-wrapper .slideshowContainer {
   height: auto !important;
   padding: 0 !important;
